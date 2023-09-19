@@ -1,0 +1,31 @@
+body {
+    color:gray;
+    background-color: #edf7fd;
+}
+
+h1,h2,h4 {
+    color: black;
+}
+
+
+<header class="hlavicka">
+<p>Životopis</p>
+</header>
+
+.profilovafotka {
+    width: 200px;
+    border-radius: 50%
+}
+
+.ikona {
+    width: 30px;
+}
+
+/*
+.osobni udaje
+.vzdelani
+.Praxe
+.jazykove dovednosti
+.ridicsky prukaz
+.paticka
+*/
