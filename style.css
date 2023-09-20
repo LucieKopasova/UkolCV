@@ -1,149 +1,144 @@
 .radekhlavicka {
-    background-color: gray;
+  background-color: gray;
 }
 
 body {
-    color:gray;
-    background-color: #edf7fd;
-    padding: 0;
-    margin:0;
+  color: gray;
+  background-color: #edf7fd;
+  padding: 0;
+  margin: 0;
 }
 
 .sloupec {
-    background-color: #d8e2f7;
-    padding: 0;
-    width: 20%;
+  background-color: #d8e2f7;
+  padding: 0;
+  width: 20%;
 }
 
 .sloupecdve {
-    background-color: white;
-    padding:17px 30px;
-    width:80%;
-    border-bottom: 1px solid rgb(190, 190, 190) ;
-    padding-bottom: 30px;
+  background-color: white;
+  padding: 17px 30px;
+  width: 80%;
+  border-bottom: 1px solid rgb(190, 190, 190);
+  padding-bottom: 30px;
 }
 
 .tablebody {
-    width: 100%;
-    margin: 0;
-    border-spacing: 0;
+  width: 100%;
+  margin: 0;
+  border-spacing: 0;
 }
 
-td { 
-vertical-align: top;
+td {
+  vertical-align: top;
 }
-
 
 h1 {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
-    text-align: left;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  text-align: left;
 }
 
 h2 {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    text-align: right;
-    margin-right: 20px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: right;
+  margin-right: 20px;
 }
 
-h3 { 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
 }
-
 
 h4 {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
-    margin: 0 15px 10px 20px;  
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  margin: 0 15px 10px 20px;
 }
 
-h5{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 15px;
-    margin: 0px 30px;
+h5 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 15px;
+  margin: 0px 30px;
 }
 
 .menu {
-    margin: 0;
+  margin: 0;
 }
 
 .menu li {
-    display: inline-block;
+  display: inline-block;
 }
 
 .menu a {
-    color: white;
-    text-decoration: none;
-    display: inline-block;
-    padding: 20px 20px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 20px;
 }
 
 .menu a:hover,
 .menu a:focus,
 .menu a:active {
-    background-color: rgb(109, 109, 109);
+  background-color: rgb(109, 109, 109);
 }
 
 .praxe ul {
-    margin: 8px;
-    font-style: italic;
-    list-style: inside;
+  margin: 8px;
+  font-style: italic;
+  list-style: inside;
 }
 
 .vzdelani strong {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
 }
 
 .sloupecskol {
-    padding-left: 30px;
+  padding-left: 30px;
 }
 
-
 .profilovafotka {
-    width: 170px;
-    border-radius: 50%;
-    border: 15px solid white;
-    float: left;
-    margin: 30px;
+  width: 170px;
+  border-radius: 50%;
+  border: 15px solid white;
+  float: left;
+  margin: 30px;
 }
 
 .ikona {
-    width: 25px;
+  width: 25px;
 }
 
 .hlavicka {
-    color: black;
-    font-size: 20px;
-    text-align: center;
-    background-color: grey;
-    padding: 20px;
-    margin: 0;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  background-color: grey;
+  padding: 20px;
+  margin: 0;
 }
 
-
 .osobniudaje td {
-    padding: 5px;
+  padding: 5px;
 }
 
 .paticka {
-    color: white;
-    text-align: center;
-    background-color: dimgrey;
-    width:100%;
-    margin: 0;  
+  color: white;
+  text-align: center;
+  background-color: dimgrey;
+  width: 100%;
+  margin: 0;
 }
 
 .paticka p {
-    margin: 0;
- }
-
+  margin: 0;
+}
 
 /*
 .hlavicka
